@@ -1,0 +1,6 @@
+/* Global */
+@import './global/reset.css';
+@import './global/componentes.css';
+
+/* Página Inicial */
+@import '../css/introducao/intro.css';
